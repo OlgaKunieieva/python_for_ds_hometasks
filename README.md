@@ -1,1 +1,1 @@
-# python_for_ds_hometasks
+# Домашні завдання для курсу Python для аналізу даних.
